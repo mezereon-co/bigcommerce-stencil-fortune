@@ -1,6 +1,6 @@
 # bigcommerce-stencil-fortune
 
-UI Components for Bigcommerce Fortune Theme
+UI Components for BigCommerce Fortune Theme
 
 - **Performance** - results provided in milliseconds.
 - **Scalability** - SaaS software is hosted in Google Cloud.
