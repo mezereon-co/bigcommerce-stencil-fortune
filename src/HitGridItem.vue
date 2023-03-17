@@ -59,9 +59,7 @@
           "
         >
           <a :href="item.custom_url.url" data-event-type="product-click">
-            <span class="product-item-action">
-              View Details
-            </span>
+            <span class="product-item-action"> View Details </span>
           </a>
         </li>
         <li v-else>

@@ -6,7 +6,7 @@ export default {
     overlayClose() {
       const overlay = document.querySelectorAll('.search-overlay')
       if (overlay) {
-        overlay.forEach(item => {
+        overlay.forEach((item) => {
           item.classList.remove('visible')
         })
       }
