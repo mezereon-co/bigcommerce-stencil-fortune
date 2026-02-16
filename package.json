@@ -59,7 +59,8 @@
     "last 2 versions"
   ],
   "main": "./dist/ui-components.umd.min.js",
-  "overrides": {  
-    "lodash": "^4.17.23"
+  "overrides": {
+    "lodash": "^4.17.23",
+    "qs": "6.14.2"
   }
 }
